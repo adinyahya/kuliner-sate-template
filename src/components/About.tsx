@@ -10,7 +10,7 @@ export default function About() {
     <div className="mx-auto grid max-w-2xl grid-cols-1 items-center gap-x-8 gap-y-12 px-6 pt-12 pb-24 sm:px-6 sm:pb-24 lg:max-w-7xl lg:grid-cols-2 lg:px-8">
       <div className="lg:w-10/12 lg:pl-8">
         <Image
-          src="/about.png"
+          src="/about.webp"
           className="relative"
           alt="food illustration"
           loading="lazy"

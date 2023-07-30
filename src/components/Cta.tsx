@@ -6,7 +6,7 @@ export default function Cta() {
     <div
       className="absolute inset-0 bg-black opacity-25"
       style={{
-        backgroundImage: "url('/cta.png')",
+        backgroundImage: "url('/cta.webp')",
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}

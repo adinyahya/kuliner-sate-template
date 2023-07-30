@@ -44,7 +44,7 @@ export default function Header() {
             </div>
             <div className="lg:w-6/12 lg:pl-8">
               <Image
-                src="/logo-header.png"
+                src="/logo-header.webp"
                 className="relative"
                 alt="food illustration"
                 loading="lazy"
