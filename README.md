@@ -2,7 +2,7 @@
 
 ## Mulai menggunakan
 
-git clone https://github.com/adinyahya/sate-gule-template.git
+git clone https://github.com/adinyahya/kuliner-sate-template.git
 
 ```bash
 npm intall
